@@ -92,10 +92,10 @@ footer{
     padding-top: 50px;
     color: #ccc;
 }
-.social-icon {
-    width: 20px;
-    height: 20px;
-    margin: 0 5px;
+
+footer i.fa {
+    font-size: 3em;
+    color: grey;
 }
 /**************************
 PAGE: PORTFOLIO
